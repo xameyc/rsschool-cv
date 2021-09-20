@@ -7,4 +7,9 @@
 * GitHub: xameyc
 ## About myself:
 My goal is to become a Front-end developer. I learned about programming at the university. Before the courses, I did not work in the IT field. I really like programming and I want to learn as much as possible about it and find myself.
- 
+## Skills:
+* JS
+* CSS
+* HTML
+* Git
+* C++ 
