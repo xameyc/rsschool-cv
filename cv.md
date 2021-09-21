@@ -26,3 +26,5 @@ for (let SimpleNumber = 2; SimpleNumber <= 10; SimpleNumber++){
 ## Education: 
 Belarusian State University of Informatics and Radioelectronics
 1. industrial electronics
+## English: 
+* A2 (I learned English on my own)
