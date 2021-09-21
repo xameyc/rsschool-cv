@@ -23,3 +23,6 @@ for (let SimpleNumber = 2; SimpleNumber <= 10; SimpleNumber++){
   if (counter == 2) alert(SimpleNumber);
 }
 ```
+## Education: 
+Belarusian State University of Informatics and Radioelectronics
+1. industrial electronics
