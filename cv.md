@@ -13,3 +13,13 @@ My goal is to become a Front-end developer. I learned about programming at the u
 * HTML
 * Git
 * C++ 
+## Code Exaples:
+```
+for (let SimpleNumber = 2; SimpleNumber <= 10; SimpleNumber++){
+  let counter = 0;
+  for (let n = 1; n <= 10; n++){
+   if (SimpleNumber % n == 0) counter++;
+  }
+  if (counter == 2) alert(SimpleNumber);
+}
+```
